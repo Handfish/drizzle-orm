@@ -2,6 +2,8 @@ packages:
   - drizzle-orm
   - drizzle-zod
   - drizzle-effect
+  - drizzle-seed
+  - drizzle-kit
   - drizzle-typebox
   - drizzle-valibot
   - integration-tests

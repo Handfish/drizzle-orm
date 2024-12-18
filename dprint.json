@@ -12,6 +12,9 @@
 	"markdown": {},
 	"includes": ["**/*.{ts,tsx,js,jsx,cjs,mjs,json}"],
 	"excludes": [
+    "package.json",
+    "dprint.json",
+		"**/drizzle-effect/**",
 		"**/node_modules",
 		"dist",
 		"dist-dts",
